@@ -1,4 +1,4 @@
-llama-index==0.10.37
+llama-index==0.12.28
 load_dotenv==0.1.0
 tree_sitter_languages==1.10.2
 tree-sitter==0.21.3
