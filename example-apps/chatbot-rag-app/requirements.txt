@@ -118,6 +118,8 @@ googleapis-common-protos[grpc]==1.65.0
     #   google-api-core
     #   grpc-google-iam-v1
     #   grpcio-status
+greenlet==3.2.4
+    # via sqlalchemy
 grpc-google-iam-v1==0.13.1
     # via google-cloud-resource-manager
 grpcio==1.66.1
@@ -350,7 +352,7 @@ urllib3==2.2.3
     #   elastic-transport
     #   requests
     #   types-requests
-werkzeug==3.0.4
+werkzeug==3.1.4
     # via flask
 wheel==0.44.0
     # via pip-tools
