@@ -38,7 +38,7 @@ python-dotenv==1.0.0
     # via -r requirements.in
 urllib3==1.26.18
     # via elastic-transport
-werkzeug==3.0.1
+werkzeug==3.1.5
     # via flask
 wheel==0.41.2
     # via pip-tools
