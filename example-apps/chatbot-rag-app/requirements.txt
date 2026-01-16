@@ -118,6 +118,8 @@ googleapis-common-protos[grpc]==1.65.0
     #   google-api-core
     #   grpc-google-iam-v1
     #   grpcio-status
+greenlet==3.3.0
+    # via sqlalchemy
 grpc-google-iam-v1==0.13.1
     # via google-cloud-resource-manager
 grpcio==1.66.1
@@ -243,7 +245,7 @@ protobuf==5.28.2
     #   grpc-google-iam-v1
     #   grpcio-status
     #   proto-plus
-pyasn1==0.6.1
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
